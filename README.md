@@ -1,3 +1,3 @@
-# SM3
+# SM4
 
-Zadanie nr 3 na przedmiot Systemy Mobilne w Objective-C
+Zadanie nr 4 na przedmiot Systemy Mobilne w Objective-C
